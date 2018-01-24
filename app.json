@@ -7,12 +7,10 @@
         "GATEWAY_MERCHANT_ID": {
             "required": true,
             "description": "Your TEST Gateway merchant ID (must begin with 'TEST')"
-            "value": "TESTAB_MPGS"
         },
         "GATEWAY_API_PASSWORD": {
             "required": true,
             "description": "Your TEST Gateway API password"
-            "value": "30ad10302d422e3b22d58f2922ef12d3"
         },
         "GATEWAY_REGION": {
             "required": true,
